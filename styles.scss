@@ -1,0 +1,39 @@
+$primaryColor: #212121;
+
+body {
+  background-color: $primaryColor;
+}
+
+.st0 {
+  display: none;
+  fill: #212121;
+}
+
+.st1 {
+  fill: #f0f0f0;
+  transition: all 0.3s ease;
+}
+
+.st2 {
+  fill: #29668f;
+}
+
+.st3 {
+  fill: #46abf0;
+}
+
+.st4 {
+  fill: #8f8f8f;
+}
+
+svg {
+  width: 600px;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+  height: 90vh;
+  justify-content: center;
+  align-items: center;
+}
